@@ -1,0 +1,191 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "8/21/2008">
+	<sitename>Adobe Web Photo Gallery</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email>gpbaroowah@gmail.com</email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "Picture 035.jpg"
+width = "350"
+height = "286"
+thumbpath = "Picture 035.jpg"
+thumbwidth = "75"
+thumbheight = "61">
+</image>
+
+
+<image
+path = "Picture 040.jpg"
+width = "350"
+height = "286"
+thumbpath = "Picture 040.jpg"
+thumbwidth = "75"
+thumbheight = "61">
+</image>
+
+
+<image
+path = "sid.jpg"
+width = "233"
+height = "350"
+thumbpath = "sid.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "sid (1).jpg"
+width = "350"
+height = "262"
+thumbpath = "sid (1).jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "sid (10).jpg"
+width = "350"
+height = "262"
+thumbpath = "sid (10).jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "sid (11).jpg"
+width = "350"
+height = "262"
+thumbpath = "sid (11).jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "sid (12).jpg"
+width = "350"
+height = "262"
+thumbpath = "sid (12).jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "sid (13).jpg"
+width = "350"
+height = "262"
+thumbpath = "sid (13).jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "sid (14).jpg"
+width = "350"
+height = "262"
+thumbpath = "sid (14).jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "sid (2).jpg"
+width = "350"
+height = "262"
+thumbpath = "sid (2).jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "sid (3).jpg"
+width = "350"
+height = "262"
+thumbpath = "sid (3).jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "sid (4).jpg"
+width = "350"
+height = "262"
+thumbpath = "sid (4).jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "sid (5).jpg"
+width = "350"
+height = "262"
+thumbpath = "sid (5).jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "sid (6).jpg"
+width = "350"
+height = "262"
+thumbpath = "sid (6).jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "sid (7).jpg"
+width = "350"
+height = "262"
+thumbpath = "sid (7).jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "sid (8).jpg"
+width = "350"
+height = "262"
+thumbpath = "sid (8).jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "sid (9).jpg"
+width = "350"
+height = "262"
+thumbpath = "sid (9).jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+</images>
+</gallery>
