@@ -1,0 +1,101 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "8/19/2008">
+	<sitename>Adobe Web Photo Gallery</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email>gpbaroowah@gmail.com</email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "cul.jpg"
+width = "350"
+height = "262"
+thumbpath = "cul.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "cul (1).jpg"
+width = "350"
+height = "262"
+thumbpath = "cul (1).jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "cul (2).jpg"
+width = "350"
+height = "262"
+thumbpath = "cul (2).jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "cul (3).jpg"
+width = "350"
+height = "262"
+thumbpath = "cul (3).jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "cul (4).jpg"
+width = "350"
+height = "262"
+thumbpath = "cul (4).jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "cul (5).jpg"
+width = "350"
+height = "262"
+thumbpath = "cul (5).jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "cul (6).jpg"
+width = "350"
+height = "262"
+thumbpath = "cul (6).jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "cul (7).jpg"
+width = "350"
+height = "262"
+thumbpath = "cul (7).jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+</images>
+</gallery>
